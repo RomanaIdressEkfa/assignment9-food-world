@@ -9,7 +9,7 @@ const Home = () => {
             <Link className='mx-7' to="/reviews">Reviews</Link>
             <Link className='mx-7' to="/dashboard">Dashboard</Link>
             <Link className='mx-7' to="/blogs">Blogs</Link>
-            <Link className='mx-7' to="/about">About</Link>
+            {/* <Link className='mx-7' to="/about">About</Link> */}
         </nav>
 
 
