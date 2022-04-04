@@ -23,7 +23,7 @@ const Dashboard = () => {
         },
         {
             name: 'Apr',
-            uv: 2780,
+            uv: 1000,
             pv: 3908,
             amt: 2000,
         },
