@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Review = (props) => {
+const ReviewPage = (props) => {
     const { name, comment, rating, picture } = props.review;
     return (
         <div className='mt-8 shadow-lg '>
@@ -10,11 +10,8 @@ const Review = (props) => {
                 <p className='font-semibold'>Comment: {comment}</p>
                 <p className='font-bold' >Ratings: {rating}</p>
             </div>
-
-
         </div>
-
     );
 };
 
-export default Review;
+export default ReviewPage;
