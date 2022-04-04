@@ -1,6 +1,6 @@
 # React_Food_World
 test
-[My_Link_Here](https://fluffy-choux-840906.netlify.app/Home2)
+[My_Link_Here](https://react-food-world.netlify.app/)
 
 * 404 Not Found page created.
 * Names, comments, ratings, pictures have been added to customer reviews.
